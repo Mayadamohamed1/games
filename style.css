@@ -1,0 +1,14 @@
+.square{
+    float: left;
+ 
+    margin:7px;
+    padding: 22px;
+    font-size: 30px;
+}
+.square:hover{
+    background-color: black !important;
+    cursor: pointer;
+}
+#color{
+   text-decoration: line-through;
+}
